@@ -1,0 +1,5 @@
+node_modules
+.env
+.vscode
+app.yaml
+tanicare-application-75ffd3206ebc.json
